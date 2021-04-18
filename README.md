@@ -3,7 +3,7 @@
 <pre>
 
 A. Launch EC2 instance with Security Group allowing SSH on Port 22 and HTTP on Ports 80 and 85
-  Enter the following commands :-
+  Login to the instance using the Public Key and Enter the following commands :-
     sudo yum update
     sudo yum install httpd
     sudo amazon-linux-extras install docker
