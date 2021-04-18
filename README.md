@@ -2,10 +2,10 @@
 <h3>Sample WebApp to Deploy</h3>
 <br>
 <h4>AWS Console</h4>
-![alt text](https://github.com/sarthakSharma5/webapp/blob/master/Screenshot%20(653).png?raw=true)
+![Picture](https://raw.githubusercontent.com/sarthakSharma5/webapp/master/Screenshot%20(653).png)
 <br>
 <h4>WebPage output</h4>
-![alt text](https://github.com/sarthakSharma5/webapp/blob/master/Screenshot%20(654).png?raw=true)
+![Picture](https://raw.githubusercontent.com/sarthakSharma5/webapp/master/Screenshot%20(654).png)
 <br>
 <h4>Workflow:</h4>
 <pre>
