@@ -1,5 +1,13 @@
 # webapp
 <h3>Sample WebApp to Deploy</h3>
+<br>
+<h4>AWS Console</h4>
+![alt text](https://github.com/sarthakSharma5/webapp/blob/master/Screenshot%20(653).png?raw=true)
+<br>
+<h4>WebPage output</h4>
+![alt text](https://github.com/sarthakSharma5/webapp/blob/master/Screenshot%20(654).png?raw=true)
+<br>
+<h4>Workflow:</h4>
 <pre>
 
 A. Launch EC2 instance with Security Group allowing SSH on Port 22 and HTTP on Ports 80 and 85
