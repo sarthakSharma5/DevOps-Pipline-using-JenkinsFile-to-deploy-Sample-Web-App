@@ -90,6 +90,9 @@ pipeline {
             agent {
                 label 'AWS-MDHack'
             }
+	    options {
+   		skipDefaultCheckout true
+	    }
             steps {
                 echo 'Deploying ...'
                 sh 'date'
