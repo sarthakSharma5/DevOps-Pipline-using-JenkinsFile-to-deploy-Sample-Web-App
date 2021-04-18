@@ -33,8 +33,8 @@ C. Create Pipeline Project in Jenkins
   Set Build Trigger : Trigger build remotely
     Pipeline
       Script from SCM
-      Git : https://github.com/sarthakSharma5/webapp.git
-      Branch : master
-      Script Path: Jenkinsfile
+        Git : https://github.com/sarthakSharma5/webapp.git
+        Branch : master
+        Script Path: Jenkinsfile
 
 </pre>
